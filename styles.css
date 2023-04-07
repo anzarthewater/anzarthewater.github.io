@@ -3,7 +3,9 @@ body {
   height: 0px;
   background-color: #f6f6f6;
   min-width: 720px;
-
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 
