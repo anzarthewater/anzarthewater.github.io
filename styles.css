@@ -43,6 +43,7 @@ td {
   text-align: center;
   font-family: verdana;
   color: #ffffff;
+  user-select: none;
 }
 
 td:hover {
