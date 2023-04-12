@@ -25,6 +25,7 @@ body {
 #imgheader2 {
   width: 10%;
   height: 100%;
+  aspect-ratio: 367 / 327
 }
 
 #titleheader {
