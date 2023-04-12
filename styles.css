@@ -22,6 +22,11 @@ body {
   float: left;
 }
 
+#imgheader2 {
+  width: 10%;
+  height: 100%;
+}
+
 #titleheader {
   float: right;
   width: 40%;
