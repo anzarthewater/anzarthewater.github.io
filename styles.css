@@ -49,6 +49,7 @@ td {
   font-family: verdana;
   color: #ffffff;
   user-select: none;
+  font-size: 1.3vw;
 }
 
 td:hover {
